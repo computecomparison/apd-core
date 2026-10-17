@@ -1,0 +1,31 @@
+---
+title: Compute Comparison GPU and LLM Pricing
+homepage: https://computecomparison.com
+category: Economics
+description: Live and historical pricing for GPU rental (on-demand and spot) and LLM inference (per-token) across 100+ cloud providers, refreshed every 15 minutes with daily snapshots since June 2026. Weekly-updated open data archives are published on Zenodo, Kaggle and Hugging Face.
+version:
+keywords: GPU pricing, cloud computing, LLM pricing, price comparison, spot instances
+image:
+temporal: 2026-06 to present
+spatial: Global
+access_level: public
+copyrights:
+accrual_periodicity: weekly
+specification:
+data_quality: false
+data_dictionary:
+language: en
+license: CC BY 4.0
+publisher:
+ - name: Compute Comparison
+ web: https://computecomparison.com
+organization:
+ - name: Compute Comparison
+ web: https://computecomparison.com
+issued_time: 2026.06
+sources:
+ - name: Zenodo
+ access_url: https://doi.org/10.5281/zenodo.23275464
+references:
+ - title: Data Methodology
+ reference: https://computecomparison.com/methodology
